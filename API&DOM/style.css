@@ -23,3 +23,15 @@ button{
     width: 80px;
     font-size: large;
 }
+
+.eachDiv{
+    border: 1px solid gray;
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+    /* display: flex; */
+}
+
+.userData-container{
+    display: flex;
+}
