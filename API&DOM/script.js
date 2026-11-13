@@ -8,3 +8,9 @@ for(let i=0; i<allBox.length; i++){
     if(allBox[i].innerText == "box-4")
         allBox[i].style.backgroundColor = "red"  
 }
+
+
+
+// const handleSearch = (event) => {
+//     console.log("Hello event listener");
+// }
